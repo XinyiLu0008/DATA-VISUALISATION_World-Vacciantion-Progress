@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "data": {
-    "url": "https://raw.githubusercontent.com/xluu0008/DataVisulization2/main/line-chart.csv"
+    "url": "https://raw.githubusercontent.com/XinyiLu0008/DATA-VISUALISATION_World-Vacciantion-Progress/main/line-chart.csv"
   },
 
   "hconcat": [{
