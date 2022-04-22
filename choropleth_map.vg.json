@@ -43,7 +43,7 @@
     }
 ],
   "data": {
-    "url": "https://raw.githubusercontent.com/xluu0008/DataVisulization2/main/ne_110m_admin_0_countries.topojson",
+    "url": "https://raw.githubusercontent.com/XinyiLu0008/DATA-VISUALISATION_World-Vacciantion-Progress/main/ne_110m_admin_0_countries.topojson",
     
     "format": {
           "type": "topojson",
@@ -54,7 +54,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/xluu0008/DataVisulization2/main/homework9.csv"
+          "url": "https://raw.githubusercontent.com/XinyiLu0008/DATA-VISUALISATION_World-Vacciantion-Progress/main/homework9.csv"
         },
         "key": "Country",
         "fields": ["Vaccinations"]
